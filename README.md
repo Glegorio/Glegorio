@@ -66,3 +66,7 @@ Principais áreas de atuação:
 
 ## Contato
 <p align="center"> <a href="https://www.linkedin.com/in/vitor-gabriel-dos-reis-glegorio-756187214" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Vitor%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:glegoriovitor2@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://wa.me/5516992248083" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p>
+
+---
+
+<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Glegorio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glegorio&layout=compact&theme=radical&langs_count=8&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glegorio&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Glegorio&theme=radical&no-frame=true&no-bg=true&margin-w=4" /> </p>
