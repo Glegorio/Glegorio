@@ -59,8 +59,5 @@ Principais áreas de atuação:
 | **Banco de Dados** | PostgreSQL, MySQL, SQLite |
 | **Ferramentas** | Visual Studio, VS Code, Git, GitHub |
 | **Design e Prototipação** | Figma |
-| **Arquitetura** | Camadas, Repository, Services, Models |
 
 </div>
-
----
