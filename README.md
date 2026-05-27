@@ -61,3 +61,5 @@ Principais áreas de atuação:
 | **Design e Prototipação** | Figma |
 
 </div>
+
+<p align="center"> <a href="https://www.linkedin.com/in/vitor-gabriel-dos-reis-glegorio-756187214" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Vitor%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:glegoriovitor2@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://wa.me/5516992248083" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p>
